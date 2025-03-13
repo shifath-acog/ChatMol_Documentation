@@ -1,4 +1,4 @@
-# Protein Structure Prediction Documentation
+# Protein Structure Prediction 
 
 ## 1. Predicting the Structure for a Given Sequence
 
