@@ -3,23 +3,22 @@
 ## 1. Predicting the Structure for a Given Sequence
 
 **Prompt:**
-
 Can you predict the structure for the given sequence
 EYDPTIEDSYRKQVVIDGETCLLDILDTAGQEEYSAMRDQYMRTGEGFLCVFAINNTKSFEDIHHYREQIKRVKDSEDVPMVLVGNKCDLPSRTVDTKQAQDLARSYGIPFIETSAKTRQRVEDAFYTLVREIRQYRLKKISKEEKTPGCVKIKKCIIM
 
 
 **Response:**
-[Insert the response from the model here, including any predicted structure files or visualizations.]
+https://soqmsb04dk.ufs.sh/f/KBljPeC0dD9GuzPrPO2T3SplEehs0rmOqkn6tBPfKoVC4d8N
 
 ---
 
 ## 2. Energy Minimization of the Predicted Structure
 
 **Prompt:**
-
+Can you relax the predicted structure obtained in predicted_protein.pdb.
 
 **Response:**
-[Insert the response from the model here, including any energy-minimized structure files or visualizations.]
+Currently, I don't have the capability to perform energy minimization or relaxation of protein structures. You might consider using molecular dynamics software such as GROMACS or AMBER for energy minimization and relaxation of the predicted structure.
 
 ---
 
