@@ -18,17 +18,18 @@ EYDPTIEDSYRKQVVIDGETCLLDILDTAGQEEYSAMRDQYMRTGEGFLCVFAINNTKSFEDIHHYREQIKRVKDSEDVP
 Can you relax the predicted structure obtained in predicted_protein.pdb.
 
 **Response:**
-Currently, I don't have the capability to perform energy minimization or relaxation of protein structures. You might consider using molecular dynamics software such as GROMACS or AMBER for energy minimization and relaxation of the predicted structure.
+Currently, I **don't** have the capability to **perform energy minimization or relaxation**of protein structures. You might consider using molecular dynamics software such as GROMACS or AMBER for energy minimization and relaxation of the predicted structure.
 
 ---
 
 ## 3. Reliability of the Predicted Structure
 
 **Prompt:**
-
+Can you tell the pLDDT scores or similar matrix that tells how reliable is the predicted structure
 
 **Response:**
-[Insert the response from the model here, including any pLDDT scores or reliability matrices.]
+Currently, I **do not** have the capability to **provide pLDDT scores** or similar metrics for the reliability of the predicted protein structure. You might consider using specialized software or tools that can analyze the structure for such metrics.
+
 
 ---
 
