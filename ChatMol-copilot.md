@@ -6,8 +6,8 @@
 Can you predict the structure for the given sequence
 EYDPTIEDSYRKQVVIDGETCLLDILDTAGQEEYSAMRDQYMRTGEGFLCVFAINNTKSFEDIHHYREQIKRVKDSEDVPMVLVGNKCDLPSRTVDTKQAQDLARSYGIPFIETSAKTRQRVEDAFYTLVREIRQYRLKKISKEEKTPGCVKIKKCIIM
 
-
 **Response:**
+
 ![Alt Text](https://soqmsb04dk.ufs.sh/f/KBljPeC0dD9GKXHtGXC0dD9GXH6mWUvw12FQTYNZMEc3bnBz)
 
 ---
@@ -36,10 +36,10 @@ Currently, I **do not** have the capability to **provide pLDDT scores** or simil
 ## 4. Secondary Structure Analysis
 
 **Prompt:**
-
+Can you inform about the different types of secondary structures present in the predicted structure in protein_structure_prediction.pbd
 
 **Response:**
-[Insert the response from the model here, including any information about secondary structures like alpha-helices, beta-sheets, etc.]
+Currently, I **do not** have the capability to directly analyze **secondary structures** from a PDB file. You may use molecular visualization tools like PyMOL or VMD to analyze the secondary structures present in the predicted protein structure.
 
 ---
 
@@ -47,9 +47,10 @@ Currently, I **do not** have the capability to **provide pLDDT scores** or simil
 ## 5. Predicting Different Conformations
 
 **Prompt:**
+predict different conformations of the protein
 
 **Response:**
-[Insert the response from the model here, including any information about secondary structures like alpha-helices, beta-sheets, etc.]
+Currently, I **do not** have the capability to predict **different conformations** of a protein directly. You might consider using molecular dynamics simulations or specialized software to explore various conformations of the protein.
 
 ---
 
